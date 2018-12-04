@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_EEKlkPezEeiTcIT5pyXTBg" guid="_EEKlkPezEeiTcIT5pyXTBg">
+    <resourceDescriptors xmi:id="_z6Tesfe1EeiTcIT5pyXTBg" id="-v1vauRCsggu9g-UstOnfLA" uri="workproducts/construcao_jogo%202.xmi"/>
+    <resourceDescriptors xmi:id="_bwMOofe2EeiTcIT5pyXTBg" id="-XuAtIMKKQvF74hoWIyxqvQ" uri="tasks/integrar_o_jogo.xmi"/>
+    <resourceDescriptors xmi:id="_KMUgsPfhEeiAZ9QtNVqAiA" id="-crTxJkzfbDVk62vyzZUi4g" uri="roles/game_designers.xmi"/>
+    <resourceDescriptors xmi:id="_MtF0UPfhEeiAZ9QtNVqAiA" id="-ewDD5bp1qpnun48vmeKc-A" uri="roles/Inventor.xmi"/>
+    <resourceDescriptors xmi:id="_ryKO4PfhEeiAZ9QtNVqAiA" id="--_bviKLRLmUPtvFkKSA36A" uri="tasks/decompor_a_historia.xmi"/>
+    <resourceDescriptors xmi:id="_5-P6IPfhEeiAZ9QtNVqAiA" id="-aps_fPODQoef8l_SVRnWNQ" uri="workproducts/definir_gdd.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:MethodPlugin xmi:id="_EEBboPezEeiTcIT5pyXTBg" name="GameDev_xp" guid="_EEBboPezEeiTcIT5pyXTBg" presentationName="Game Devolopment With XP process" briefDescription="Game Devolopment With XP process" authors="Matthaus" changeDate="2018-12-04T08:55:27.277-0200" version="0.1">
+    <methodElementProperty xmi:id="_EEKlkvezEeiTcIT5pyXTBg" name="plugin_synFree" value="true"/>
+    <methodElementProperty xmi:id="_G9I90PezEeiTcIT5pyXTBg" name="me_edited" value="true"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbofezEeiTcIT5pyXTBg" name="Content" guid="_EEBbofezEeiTcIT5pyXTBg">
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbovezEeiTcIT5pyXTBg" name="Categories" guid="_EEBbovezEeiTcIT5pyXTBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbo_ezEeiTcIT5pyXTBg" name="Domains" guid="_EEBbo_ezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbpPezEeiTcIT5pyXTBg" name="Disciplines" guid="_EEBbpPezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbpfezEeiTcIT5pyXTBg" name="RoleSets" guid="_EEBbpfezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbpvezEeiTcIT5pyXTBg" name="WP Types" guid="_EEBbpvezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbp_ezEeiTcIT5pyXTBg" name="Tools" guid="_EEBbp_ezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbqPezEeiTcIT5pyXTBg" name="StandardCategories" guid="_EEBbqPezEeiTcIT5pyXTBg"/>
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbqfezEeiTcIT5pyXTBg" name="CustomCategories" guid="_EEBbqfezEeiTcIT5pyXTBg">
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbqvezEeiTcIT5pyXTBg" name="Hidden" guid="_EEBbqvezEeiTcIT5pyXTBg">
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EEBbq_ezEeiTcIT5pyXTBg" name="Custom Categories" guid="_EEBbq_ezEeiTcIT5pyXTBg"/>
+          </childPackages>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EEBbrPezEeiTcIT5pyXTBg" name="CoreContent" guid="_EEBbrPezEeiTcIT5pyXTBg">
+        <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_HtCe0Pe1EeiTcIT5pyXTBg" name="processo_default" guid="_HtCe0Pe1EeiTcIT5pyXTBg" presentationName="Processo_Default">
+          <methodElementProperty xmi:id="_HtCe0fe1EeiTcIT5pyXTBg" name="pkg_loadCheck" value="true"/>
+          <methodElementProperty xmi:id="_hrLb0Pe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_QNy-8Pe1EeiTcIT5pyXTBg" name="integracao_jogo" guid="_QNy-8Pe1EeiTcIT5pyXTBg" presentationName="Integracao Jogo">
+            <methodElementProperty xmi:id="_QNy-8fe1EeiTcIT5pyXTBg" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_VOyMkPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_r-CywPe1EeiTcIT5pyXTBg" name="integrador_jogo" guid="_r-CywPe1EeiTcIT5pyXTBg" presentationName="integrador_jogo" conceptsAndPapers="_098tAPe1EeiTcIT5pyXTBg" responsibleFor="_xkv8kPe1EeiTcIT5pyXTBg">
+              <methodElementProperty xmi:id="_uF2z0Pe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_vC8uMPe1EeiTcIT5pyXTBg" name="integrar_o_jogo" guid="_vC8uMPe1EeiTcIT5pyXTBg" presentationName="Integrar o Jogo" performedBy="_r-CywPe1EeiTcIT5pyXTBg" output="_xkv8kPe1EeiTcIT5pyXTBg" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA" optionalInput="_hLbkwPe1EeiTcIT5pyXTBg">
+              <methodElementProperty xmi:id="_wnJr4Pe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+              <presentation xmi:id="-XuAtIMKKQvF74hoWIyxqvQ" href="uma://-XuAtIMKKQvF74hoWIyxqvQ#-XuAtIMKKQvF74hoWIyxqvQ"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_xkv8kPe1EeiTcIT5pyXTBg" name="construcao_jogo" guid="_xkv8kPe1EeiTcIT5pyXTBg" presentationName="Construcao Jogo">
+              <methodElementProperty xmi:id="_ykydQPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+              <presentation xmi:id="-v1vauRCsggu9g-UstOnfLA" href="uma://-v1vauRCsggu9g-UstOnfLA#-v1vauRCsggu9g-UstOnfLA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_098tAPe1EeiTcIT5pyXTBg" name="Integracao_continua" guid="_098tAPe1EeiTcIT5pyXTBg" presentationName="Integracao Continua">
+              <methodElementProperty xmi:id="_2DcVcPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZhkB0PfgEeiAZ9QtNVqAiA" name="design_jogo" guid="_ZhkB0PfgEeiAZ9QtNVqAiA">
+            <methodElementProperty xmi:id="_Zhko4PfgEeiAZ9QtNVqAiA" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_avkGAPfgEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_bvLI4PfgEeiAZ9QtNVqAiA" name="game_designers" guid="_bvLI4PfgEeiAZ9QtNVqAiA" presentationName="Game Designers" briefDescription="Um grupo de pessoas que ajuda o Inventor a criar ou a escrever a historia do jogo" conceptsAndPapers="_Ine0YPfiEeiAZ9QtNVqAiA" responsibleFor="_YE6ywPfiEeiAZ9QtNVqAiA">
+              <methodElementProperty xmi:id="_JhW4IPfhEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+              <presentation xmi:id="-crTxJkzfbDVk62vyzZUi4g" href="uma://-crTxJkzfbDVk62vyzZUi4g#-crTxJkzfbDVk62vyzZUi4g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bR790PfhEeiAZ9QtNVqAiA" name="decompor_a_historia" guid="_bR790PfhEeiAZ9QtNVqAiA" presentationName="Decompor a historia" performedBy="_bvLI4PfgEeiAZ9QtNVqAiA" mandatoryInput="_tQZHcPfhEeiAZ9QtNVqAiA" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA">
+              <methodElementProperty xmi:id="_ryHyoPfhEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+              <presentation xmi:id="--_bviKLRLmUPtvFkKSA36A" href="uma://--_bviKLRLmUPtvFkKSA36A#--_bviKLRLmUPtvFkKSA36A"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_Ine0YPfiEeiAZ9QtNVqAiA" name="design_simples" guid="_Ine0YPfiEeiAZ9QtNVqAiA" presentationName="Design Simples">
+              <methodElementProperty xmi:id="_JcS8gPfiEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YE6ywPfiEeiAZ9QtNVqAiA" name="metfora" guid="_YE6ywPfiEeiAZ9QtNVqAiA" presentationName="Metáfora (Sistema de Nomes)">
+              <methodElementProperty xmi:id="_bH9tAPfiEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            </contentElements>
+          </childPackages>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aIK9YPe1EeiTcIT5pyXTBg" name="plano_de_interacao" guid="_aIK9YPe1EeiTcIT5pyXTBg" presentationName="Plano de interacao" performedBy="_98KzIPffEeiAZ9QtNVqAiA" mandatoryInput="_kZSA0Pe1EeiTcIT5pyXTBg" output="_kZSA0Pe1EeiTcIT5pyXTBg">
+            <methodElementProperty xmi:id="_diE4cPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_bmofcPe1EeiTcIT5pyXTBg" name="implementar_jogo" guid="_bmofcPe1EeiTcIT5pyXTBg" presentationName="Implementar jogo">
+            <methodElementProperty xmi:id="_dTebwPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_hLbkwPe1EeiTcIT5pyXTBg" name="codigo_jogo_producao" guid="_hLbkwPe1EeiTcIT5pyXTBg" presentationName="codigo_jogo_producao">
+            <methodElementProperty xmi:id="_jWwz4Pe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_kZSA0Pe1EeiTcIT5pyXTBg" name="plano_de_interacao" guid="_kZSA0Pe1EeiTcIT5pyXTBg" presentationName="plano de interacao">
+            <methodElementProperty xmi:id="_lpWhkPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_98KzIPffEeiAZ9QtNVqAiA" name="Inventor" guid="_98KzIPffEeiAZ9QtNVqAiA" presentationName="Inventor" briefDescription="O Inventor da ideia principal do jogo">
+            <methodElementProperty xmi:id="_BKSU8PfgEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            <presentation xmi:id="-ewDD5bp1qpnun48vmeKc-A" href="uma://-ewDD5bp1qpnun48vmeKc-A#-ewDD5bp1qpnun48vmeKc-A"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tQZHcPfhEeiAZ9QtNVqAiA" name="definir_gdd" guid="_tQZHcPfhEeiAZ9QtNVqAiA" presentationName="Definir GDD">
+            <methodElementProperty xmi:id="_5-MPwPfhEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            <presentation xmi:id="-aps_fPODQoef8l_SVRnWNQ" href="uma://-aps_fPODQoef8l_SVRnWNQ#-aps_fPODQoef8l_SVRnWNQ"/>
+          </contentElements>
+        </childPackages>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_EEBbrfezEeiTcIT5pyXTBg" name="CapabilityPatterns" guid="_EEBbrfezEeiTcIT5pyXTBg"/>
+    </methodPackages>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_EEBbrvezEeiTcIT5pyXTBg" name="DeliveryProcesses" guid="_EEBbrvezEeiTcIT5pyXTBg"/>
+    <methodPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_EEBbr_ezEeiTcIT5pyXTBg" name="ProcessContributions" guid="_EEBbr_ezEeiTcIT5pyXTBg"/>
+  </org.eclipse.epf.uma:MethodPlugin>
+</xmi:XMI>

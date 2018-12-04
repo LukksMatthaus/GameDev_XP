@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ArtifactDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aps_fPODQoef8l_SVRnWNQ" name="new_artifact,_tQZHcPfhEeiAZ9QtNVqAiA" guid="-aps_fPODQoef8l_SVRnWNQ" changeDate="2018-12-04T14:30:10.125-0200">
+  <mainDescription>Incrementar o GDD ( Game Design Document). &lt;br />&#xD;
+No qual se encontra todos os detalhes do jogo por escrito</mainDescription>
+  <purpose>Incrementar o GDD ( Game Design Document).</purpose>
+</org.eclipse.epf.uma:ArtifactDescription>

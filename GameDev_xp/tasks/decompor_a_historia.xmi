@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--_bviKLRLmUPtvFkKSA36A" name=",_bR790PfhEeiAZ9QtNVqAiA" guid="--_bviKLRLmUPtvFkKSA36A" changeDate="2018-12-04T14:27:51.420-0200">
+  <purpose>Transformar as ideias do Inventor em texto para o GDD</purpose>
+</org.eclipse.epf.uma:TaskDescription>
