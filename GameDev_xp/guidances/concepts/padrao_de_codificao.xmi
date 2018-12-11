@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-G5fGRRLsfO12bT5-Yu5waw" name="new_concept,_QUwFAP1nEei3vZSs0lDPeA" guid="-G5fGRRLsfO12bT5-Yu5waw">
+  <mainDescription>O uso de um padrão de codificação é uma prática de desenvolvimento de software que tem sido extensamente aceita na&#xD;
+indústria. A necessidade desta prática tem grande importância na XP devido ao aumento do nível de comunicação exigido pela&#xD;
+propriedade coletiva, pela programação em pares e pela constante refatoração do código. A equipe deve ter uma forma padrão&#xD;
+para nomear e formatar o código para que possam compreendê-lo rapidamente e saber onde procurar o que precisam.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

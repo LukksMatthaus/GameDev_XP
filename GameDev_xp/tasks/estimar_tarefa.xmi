@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qLe7Jzs-MLGXYlSL2OwKsA" name=",_UvmVIP1mEei3vZSs0lDPeA" guid="-qLe7Jzs-MLGXYlSL2OwKsA">
+  <sections xmi:id="_ZTCrIP1mEei3vZSs0lDPeA" name="Entender a Tarefa" guid="_ZTCrIP1mEei3vZSs0lDPeA"/>
+  <sections xmi:id="_apI7YP1mEei3vZSs0lDPeA" name="Fazer uma Estimativa Com Base na Experiência" guid="_apI7YP1mEei3vZSs0lDPeA">
+    <sectionDescription>&lt;p>&#xD;
+    A pessoa responsável pela estimativa pode usar sua experiência pessoal com base nas tarefas semelhantes que realizou no&#xD;
+    passado. Se não existir experiência, outros membros da equipe podem ajudar fornecendo a sua contribuição com base em&#xD;
+    suas próprias experiências. Frequentemente, os pares irão se formar para tarefas específicas nesta fase. O aspecto mais&#xD;
+    importante para ter em mente é que a pessoa responsável pela tarefa é quem faz a estimativa.&#xD;
+&lt;/p></sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

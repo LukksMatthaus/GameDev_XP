@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-g6YT3Qw8mijsCamNkkJ8Xw" name=",_oVn5gP1mEei3vZSs0lDPeA" guid="-g6YT3Qw8mijsCamNkkJ8Xw">
+  <sections xmi:id="_qUrAIP1mEei3vZSs0lDPeA" name="Identificar Design Pobre" guid="_qUrAIP1mEei3vZSs0lDPeA"/>
+  <sections xmi:id="_spWYgP1mEei3vZSs0lDPeA" name="Refatorar" guid="_spWYgP1mEei3vZSs0lDPeA">
+    <sectionDescription>A refatoração envolve a execução de alterações no código que melhorem a sua estrutura sem modificar o seu comportamento.</sectionDescription>
+  </sections>
+</org.eclipse.epf.uma:TaskDescription>

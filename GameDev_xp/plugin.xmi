@@ -7,6 +7,11 @@
     <resourceDescriptors xmi:id="_MtF0UPfhEeiAZ9QtNVqAiA" id="-ewDD5bp1qpnun48vmeKc-A" uri="roles/Inventor.xmi"/>
     <resourceDescriptors xmi:id="_ryKO4PfhEeiAZ9QtNVqAiA" id="--_bviKLRLmUPtvFkKSA36A" uri="tasks/decompor_a_historia.xmi"/>
     <resourceDescriptors xmi:id="_5-P6IPfhEeiAZ9QtNVqAiA" id="-aps_fPODQoef8l_SVRnWNQ" uri="workproducts/definir_gdd.xmi"/>
+    <resourceDescriptors xmi:id="_H5MDYP1mEei3vZSs0lDPeA" id="-cBXTMOSjuubuElVXLJmV5g" uri="tasks/definir_padrao_de_codificacao.xmi"/>
+    <resourceDescriptors xmi:id="_agYA8P1mEei3vZSs0lDPeA" id="-qLe7Jzs-MLGXYlSL2OwKsA" uri="tasks/estimar_tarefa.xmi"/>
+    <resourceDescriptors xmi:id="_rIxWkP1mEei3vZSs0lDPeA" id="-g6YT3Qw8mijsCamNkkJ8Xw" uri="tasks/refatorarcao_jogo.xmi"/>
+    <resourceDescriptors xmi:id="_WCMwAf1nEei3vZSs0lDPeA" id="-G5fGRRLsfO12bT5-Yu5waw" uri="guidances/concepts/padrao_de_codificao.xmi"/>
+    <resourceDescriptors xmi:id="_lw42cf1nEei3vZSs0lDPeA" id="-eJx0DfgqiGtHK8A1JWqz2g" uri="guidances/concepts/refatorcao_da_programcao.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EEBboPezEeiTcIT5pyXTBg" name="GameDev_xp" guid="_EEBboPezEeiTcIT5pyXTBg" presentationName="Game Devolopment With XP process" briefDescription="Game Devolopment With XP process" authors="Matthaus" changeDate="2018-12-04T08:55:27.277-0200" version="0.1">
     <methodElementProperty xmi:id="_EEKlkvezEeiTcIT5pyXTBg" name="plugin_synFree" value="true"/>
@@ -46,6 +51,15 @@
             <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_098tAPe1EeiTcIT5pyXTBg" name="Integracao_continua" guid="_098tAPe1EeiTcIT5pyXTBg" presentationName="Integracao Continua">
               <methodElementProperty xmi:id="_2DcVcPe1EeiTcIT5pyXTBg" name="me_edited" value="true"/>
             </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_chVboP0wEeiPo_e6j76nzw" name="integrador_historia" guid="_chVboP0wEeiPo_e6j76nzw" presentationName="Integrador historia" conceptsAndPapers="_098tAPe1EeiTcIT5pyXTBg">
+              <methodElementProperty xmi:id="_g05ikP0wEeiPo_e6j76nzw" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hpMtUP0wEeiPo_e6j76nzw" name="integrar_a_historia" guid="_hpMtUP0wEeiPo_e6j76nzw" presentationName="Integrar a historia" performedBy="_chVboP0wEeiPo_e6j76nzw" output="_ub-cQP0wEeiPo_e6j76nzw" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA" optionalInput="_1VpCwP0wEeiPo_e6j76nzw">
+              <methodElementProperty xmi:id="_jxkIAP0wEeiPo_e6j76nzw" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_ub-cQP0wEeiPo_e6j76nzw" name="construcao_historia" guid="_ub-cQP0wEeiPo_e6j76nzw" presentationName="Construcao Historia">
+              <methodElementProperty xmi:id="_wSTrwP0wEeiPo_e6j76nzw" name="me_edited" value="true"/>
+            </contentElements>
           </childPackages>
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_ZhkB0PfgEeiAZ9QtNVqAiA" name="design_jogo" guid="_ZhkB0PfgEeiAZ9QtNVqAiA">
             <methodElementProperty xmi:id="_Zhko4PfgEeiAZ9QtNVqAiA" name="pkg_loadCheck" value="true"/>
@@ -63,6 +77,48 @@
             </contentElements>
             <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_YE6ywPfiEeiAZ9QtNVqAiA" name="metfora" guid="_YE6ywPfiEeiAZ9QtNVqAiA" presentationName="Metáfora (Sistema de Nomes)">
               <methodElementProperty xmi:id="_bH9tAPfiEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
+            </contentElements>
+          </childPackages>
+          <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_b07MIP0xEeiPo_e6j76nzw" name="desenvolimento_jogo" guid="_b07MIP0xEeiPo_e6j76nzw" presentationName="Desenvolimento Jogo">
+            <methodElementProperty xmi:id="_b07MIf0xEeiPo_e6j76nzw" name="pkg_loadCheck" value="true"/>
+            <methodElementProperty xmi:id="_d1A0kP0xEeiPo_e6j76nzw" name="me_edited" value="true"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_e-vcwP0xEeiPo_e6j76nzw" name="desenvolvedor_jogo" guid="_e-vcwP0xEeiPo_e6j76nzw" presentationName="Desenvolvedor jogo" conceptsAndPapers="_QUwFAP1nEei3vZSs0lDPeA _ZMloYP1nEei3vZSs0lDPeA _cbOuoP1nEei3vZSs0lDPeA _h3rJMP1nEei3vZSs0lDPeA">
+              <methodElementProperty xmi:id="_gvHOMP0xEeiPo_e6j76nzw" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_6xjewP1lEei3vZSs0lDPeA" name="definir_padrao_de_codificacao" guid="_6xjewP1lEei3vZSs0lDPeA" presentationName="Definir Padrao de Codificacao" performedBy="_e-vcwP0xEeiPo_e6j76nzw" output="_KILDcP1mEei3vZSs0lDPeA" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA" optionalInput="_KILDcP1mEei3vZSs0lDPeA">
+              <methodElementProperty xmi:id="_-z0aUP1lEei3vZSs0lDPeA" name="me_edited" value="true"/>
+              <presentation xmi:id="-cBXTMOSjuubuElVXLJmV5g" href="uma://-cBXTMOSjuubuElVXLJmV5g#-cBXTMOSjuubuElVXLJmV5g"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_KILDcP1mEei3vZSs0lDPeA" name="padrao_de_codificacao" guid="_KILDcP1mEei3vZSs0lDPeA" presentationName="Padrao de Codificacao">
+              <methodElementProperty xmi:id="_L1yb0P1mEei3vZSs0lDPeA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_UvmVIP1mEei3vZSs0lDPeA" name="estimar_tarefa" guid="_UvmVIP1mEei3vZSs0lDPeA" presentationName="Estimar Tarefa" performedBy="_e-vcwP0xEeiPo_e6j76nzw" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA">
+              <methodElementProperty xmi:id="_Vv0cAP1mEei3vZSs0lDPeA" name="me_edited" value="true"/>
+              <presentation xmi:id="-qLe7Jzs-MLGXYlSL2OwKsA" href="uma://-qLe7Jzs-MLGXYlSL2OwKsA#-qLe7Jzs-MLGXYlSL2OwKsA"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_oVn5gP1mEei3vZSs0lDPeA" name="refatorarcao_jogo" guid="_oVn5gP1mEei3vZSs0lDPeA" presentationName="Refatorarcao Jogo" guidelines="_C_CBEP1nEei3vZSs0lDPeA _8pO8oP1mEei3vZSs0lDPeA" performedBy="_e-vcwP0xEeiPo_e6j76nzw" mandatoryInput="_hLbkwPe1EeiTcIT5pyXTBg" output="_hLbkwPe1EeiTcIT5pyXTBg _1FSDAP1mEei3vZSs0lDPeA" additionallyPerformedBy="_98KzIPffEeiAZ9QtNVqAiA" optionalInput="_YE6ywPfiEeiAZ9QtNVqAiA _1FSDAP1mEei3vZSs0lDPeA">
+              <methodElementProperty xmi:id="_pc_xQP1mEei3vZSs0lDPeA" name="me_edited" value="true"/>
+              <presentation xmi:id="-g6YT3Qw8mijsCamNkkJ8Xw" href="uma://-g6YT3Qw8mijsCamNkkJ8Xw#-g6YT3Qw8mijsCamNkkJ8Xw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_8pO8oP1mEei3vZSs0lDPeA" name="refatorcao" guid="_8pO8oP1mEei3vZSs0lDPeA" presentationName="Refatoração">
+              <methodElementProperty xmi:id="_AY66cP1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Guideline" xmi:id="_C_CBEP1nEei3vZSs0lDPeA" name="programcao_em_pares" guid="_C_CBEP1nEei3vZSs0lDPeA" presentationName="Programação em pares">
+              <methodElementProperty xmi:id="_EWmQ8P1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_QUwFAP1nEei3vZSs0lDPeA" name="padrao_de_codificao" guid="_QUwFAP1nEei3vZSs0lDPeA" presentationName="Padrao de Codificação">
+              <methodElementProperty xmi:id="_SCkRsP1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+              <presentation xmi:id="-G5fGRRLsfO12bT5-Yu5waw" href="uma://-G5fGRRLsfO12bT5-Yu5waw#-G5fGRRLsfO12bT5-Yu5waw"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_ZMloYP1nEei3vZSs0lDPeA" name="programacao_em_pares" guid="_ZMloYP1nEei3vZSs0lDPeA" presentationName="Programacao em Pares">
+              <methodElementProperty xmi:id="_aIOxQP1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Whitepaper" xmi:id="_cbOuoP1nEei3vZSs0lDPeA" name="refatorcao" guid="_cbOuoP1nEei3vZSs0lDPeA" presentationName="Refatoração">
+              <methodElementProperty xmi:id="_d96pYP1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+            </contentElements>
+            <contentElements xsi:type="org.eclipse.epf.uma:Concept" xmi:id="_h3rJMP1nEei3vZSs0lDPeA" name="refatorcao_da_programcao" guid="_h3rJMP1nEei3vZSs0lDPeA" presentationName="Refatoração da programação">
+              <methodElementProperty xmi:id="_kiGIEP1nEei3vZSs0lDPeA" name="me_edited" value="true"/>
+              <presentation xmi:id="-eJx0DfgqiGtHK8A1JWqz2g" href="uma://-eJx0DfgqiGtHK8A1JWqz2g#-eJx0DfgqiGtHK8A1JWqz2g"/>
             </contentElements>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_aIK9YPe1EeiTcIT5pyXTBg" name="plano_de_interacao" guid="_aIK9YPe1EeiTcIT5pyXTBg" presentationName="Plano de interacao" performedBy="_98KzIPffEeiAZ9QtNVqAiA" mandatoryInput="_kZSA0Pe1EeiTcIT5pyXTBg" output="_kZSA0Pe1EeiTcIT5pyXTBg">
@@ -84,6 +140,12 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_tQZHcPfhEeiAZ9QtNVqAiA" name="definir_gdd" guid="_tQZHcPfhEeiAZ9QtNVqAiA" presentationName="Definir GDD">
             <methodElementProperty xmi:id="_5-MPwPfhEeiAZ9QtNVqAiA" name="me_edited" value="true"/>
             <presentation xmi:id="-aps_fPODQoef8l_SVRnWNQ" href="uma://-aps_fPODQoef8l_SVRnWNQ#-aps_fPODQoef8l_SVRnWNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1VpCwP0wEeiPo_e6j76nzw" name="historia_producao" guid="_1VpCwP0wEeiPo_e6j76nzw" presentationName="historia producao">
+            <methodElementProperty xmi:id="_2pZJoP0wEeiPo_e6j76nzw" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_1FSDAP1mEei3vZSs0lDPeA" name="teste_de_unidade" guid="_1FSDAP1mEei3vZSs0lDPeA" presentationName="Teste de Unidade">
+            <methodElementProperty xmi:id="_2Hyo4P1mEei3vZSs0lDPeA" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eJx0DfgqiGtHK8A1JWqz2g" name="new_concept,_h3rJMP1nEei3vZSs0lDPeA" guid="-eJx0DfgqiGtHK8A1JWqz2g">
+  <mainDescription>&lt;p>&#xD;
+    A refatoração é a prática de melhorar o design de um sistema sem alterar o seu comportamento. A refatoração é uma&#xD;
+    prática e habilidade crítica no desenvolvimento iterativo. O programador ou está adicionando uma nova funcionalidade ou&#xD;
+    está refatorando. Os programadores XP escolhem conscientemente entre refatorar ou adicionar novas funcionalidades a&#xD;
+    cada minuto. Algumas refatorações são triviais, tais como renomear ou mover coisas. Outras lhe permitem trocar uma&#xD;
+    lógica de procedimento por polimorfismo e, ainda existem refatorações maiores para implementar padrões de projeto.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Apesar dos processos como a Programação Extrema se apoiarem na refatoração para permitir que o design apareça, a&#xD;
+    utilidade da refatoração vai além das Metodologias Ágeis. Como as solicitações de funcionalidades e a correção de erros&#xD;
+    necessitam de alterações em um sistema, as técnicas de refatoração permitem que os programadores mantenham um bom&#xD;
+    design. A refatoração também pode ser usada para melhorar o design de um sistema existente.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    A refatoração não é algo novo. Os desenvolvedores têm refatorado durante anos, embora só recentemente as pessoas tenham&#xD;
+    começado a catalogar as refatorações. A refatoração tornou-se uma parte tão importante do desenvolvimento que,&#xD;
+    ambientes de desenvolvimento integrado (IDEs) de nível profissional, incluem ferramentas embutidas ou têm plug-ins para&#xD;
+    apoiar a refatoração.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
