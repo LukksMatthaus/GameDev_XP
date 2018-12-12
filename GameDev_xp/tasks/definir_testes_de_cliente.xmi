@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fca5dPUuRF2chqPL7Dm0qg" name=",_W7ICMP4OEeipnrX2QRJQVw" guid="-fca5dPUuRF2chqPL7Dm0qg" changeDate="2018-12-12T11:04:30.288-0200">
+  <purpose>Definir os critérios com os quais o cliente irá considerar uma história completa.</purpose>
+</org.eclipse.epf.uma:TaskDescription>

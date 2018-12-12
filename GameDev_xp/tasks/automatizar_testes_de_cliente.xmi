@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tA9DPc9MmTfQDkvYpNEeGw" name=",_MiFKwP4OEeipnrX2QRJQVw" guid="-tA9DPc9MmTfQDkvYpNEeGw" changeDate="2018-12-12T11:02:55.250-0200">
+  <purpose>Transformar os critérios de aceitação de uma história de usuário em forma executável.</purpose>
+</org.eclipse.epf.uma:TaskDescription>
