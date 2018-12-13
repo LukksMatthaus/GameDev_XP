@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-0iq_BLQXSX195PuQGT7x0w" name="GameDev_Process_delivery,_fNUBIf7aEeilZIsH804TCw" guid="-0iq_BLQXSX195PuQGT7x0w"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-pkWAF-E-aX0VO67TeTjiyg" name="Inventor,_xBTVQP7cEeilZIsH804TCw" guid="-pkWAF-E-aX0VO67TeTjiyg">
+    <refinedDescription>O Inventor da ideia principal do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-h05V1aVInhGsjIRbduhFiw" name="game_designers,_KjR6sP7dEeilZIsH804TCw" guid="-h05V1aVInhGsjIRbduhFiw">
+    <refinedDescription>Um grupo de pessoas que ajuda o Inventor a criar ou a escrever a historia do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Q-tzqvwQSWyY5d5z93gjCQ" name="Inventor,_KjR6sv7dEeilZIsH804TCw" guid="-Q-tzqvwQSWyY5d5z93gjCQ">
+    <refinedDescription>O Inventor da ideia principal do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-7Y2kz37LjlZtAhrVHmydBg" name="definir_gdd,_KjShwP7dEeilZIsH804TCw" guid="-7Y2kz37LjlZtAhrVHmydBg">
+    <refinedDescription>Incrementar o GDD ( Game Design Document). &lt;br />&#xD;
+No qual se encontra todos os detalhes do jogo por escrito</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-LXhWZIO1NmX47PnQNgjLjQ" name="Inventor,_fdZkMv7dEeilZIsH804TCw" guid="-LXhWZIO1NmX47PnQNgjLjQ">
+    <refinedDescription>O Inventor da ideia principal do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-ayLcepyUtMe0SYDSuzCsLQ" name="Inventor,_o5CYMv7dEeilZIsH804TCw" guid="-ayLcepyUtMe0SYDSuzCsLQ">
+    <refinedDescription>O Inventor da ideia principal do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-OQAjY-_H1dBIjk9qZDn7OQ" name="Inventor,_wFWN4v7dEeilZIsH804TCw" guid="-OQAjY-_H1dBIjk9qZDn7OQ">
+    <refinedDescription>O Inventor da ideia principal do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8jE8leTbKKIe5vfqCWgG5A" name="desenvolvedor_jogo,_fdZkMP7dEeilZIsH804TCw" guid="-8jE8leTbKKIe5vfqCWgG5A">
+    <refinedDescription>Grupo responsável pelo desonvilmento do jogo</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-IZEQxJYBajqWqBkRpdqtZw" name="integrador_historia,_wFWN4P7dEeilZIsH804TCw" guid="-IZEQxJYBajqWqBkRpdqtZw">
+    <refinedDescription>Pessoa responsável por integrar a história que foi produzida na interação com o GDD mais atual</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-fyXPvGrRr7Y9-nt3rjL2oA" name="atualizar_gdd,_ocjm0P75EeilZIsH804TCw" guid="-fyXPvGrRr7Y9-nt3rjL2oA">
+    <refinedDescription>Atualiza o GDD com as mudanças da interação atual</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-vtoYz-l7vLabMDdCN2EelA" name="definir_gdd,_oclcAP75EeilZIsH804TCw" guid="-vtoYz-l7vLabMDdCN2EelA">
+    <refinedDescription>Incrementar o GDD ( Game Design Document). &lt;br />&#xD;
+No qual se encontra todos os detalhes do jogo por escrito</refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+</xmi:XMI>

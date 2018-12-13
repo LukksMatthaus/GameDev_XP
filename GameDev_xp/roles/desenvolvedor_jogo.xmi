@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-s7zbodOP5GXQrPJH4v0Lzw" name="desenvolvedor_jogo,_e-vcwP0xEeiPo_e6j76nzw" guid="-s7zbodOP5GXQrPJH4v0Lzw">
+  <mainDescription>Grupo responsável pelo desonvilmento do jogo</mainDescription>
+</org.eclipse.epf.uma:RoleDescription>
